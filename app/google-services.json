@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673181571472",
+    "firebase_url": "https://inappmessageissue.firebaseio.com",
+    "project_id": "inappmessageissue",
+    "storage_bucket": "inappmessageissue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673181571472:android:b7b59b672ef8a51f457b15",
+        "android_client_info": {
+          "package_name": "com.amatkivskiy.inappmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673181571472-q091gr9do8b0dj917lv330c48dmh0tfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBkRoEhJHuWBgI8XZD1s5xif0xfn4uLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673181571472-q091gr9do8b0dj917lv330c48dmh0tfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
